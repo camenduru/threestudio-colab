@@ -10,7 +10,3 @@
 
 ## Main Repo
 https://github.com/threestudio-project/threestudio
-
-## Paper
-
-## Output
