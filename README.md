@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/threestudio-colab/blob/main/threestudio_colab.ipynb) | threestudio_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/threestudio-colab/blob/main/threestudio_colab.ipynb) | threestudio_colab (Pro Colab 😭)
 
 ## Main Repo
 https://github.com/threestudio-project/threestudio
